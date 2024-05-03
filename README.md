@@ -3,4 +3,4 @@ Open data management course.
 
 ## Data sources
 - [Stack Overflow annual developer surveys](https://survey.stackoverflow.co/) - Released under [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) license.
-- ..
+- ...
